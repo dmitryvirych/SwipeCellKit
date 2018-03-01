@@ -14,6 +14,8 @@ public enum SwipeActionStyle: Int {
     
     /// Apply a style that reflects destructive actions.
     case destructive
+    
+    case clear
 }
 
 /**
